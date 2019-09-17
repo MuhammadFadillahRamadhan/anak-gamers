@@ -47,8 +47,7 @@ With each commit, you have the opportunity to write a **commit message**, a shor
 Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
 
 Let’s start with this template:
-
-```
+README.md``
 <p>Hello World! I’m [username]. This is my website!</p>
 ```
 
