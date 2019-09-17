@@ -60,7 +60,7 @@ Delete this placeholder line:
 
 ```
 <p>Welcome to your first GitHub Pages website!</p>
-```
+```anak-gamers/README.md
 
 Then, paste the template to line 15 and fill in the blanks.
 
